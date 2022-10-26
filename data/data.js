@@ -114,7 +114,7 @@ export const projectsData = [
         title: "Lung Cancer Detection Using CNN",    // card image  > insert the svg image in the assets folder
         describe: "Lung Cancer is one of the leading life taking cancer worldwide. Early detection and treatment are crucial for patient recovery. Medical professionals use histopathological images of biopsied tissue from potentially infected areas of lungs for diagnosis. Most of the time, the diagnosis regarding the types of lung cancer are error-prone and time-consuming. Convolutional Neural networks can identify and classify lung cancer types with greater accuracy in a shorter period, which is crucial for determining patients' right treatment procedure and their survival rate. Benign tissue, Adenocarcinoma, and squamous cell carcinoma are considered in this research work. The CNN model training and validation accuracy of 99.83 and 97.83 percentage are obtained",
         url: "https://github.com/vijaykhv/Lung-Cancer-Detection-Using-CNN",  // url of the Github repository
-        img: "assets/project1.jpg"  //image Project
+        img: "https://i.ibb.co/tHF7cXp/3.png"//image Project
     },
     // {
     //     title: "PROJECT TITLE",
