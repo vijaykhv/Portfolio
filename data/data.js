@@ -59,7 +59,7 @@ export const aboutMeData = {
     title: "ABOUT ME",
     description: "I'm a final year computer science undergraduate student with a keen interest towards data science. I'm currently doing a certified course on 'FULL STACK DATA SCIENCE' from 'INeuron' and I love to browse through problem statements and implement those during my spare time. Checkout my projects at Github link above.",
     titleURL: "View Resume",
-    urlCV: "#"
+    urlCV: "assets/Resume.pdf"
 }
 
 
