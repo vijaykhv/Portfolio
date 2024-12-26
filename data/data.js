@@ -10,12 +10,12 @@
 //=========================================
 export const introductionData = {
     // Hi, my name is....
-    yourName: "K.VIJAY KAMAL!", // Insert your name
+    yourName: "VIJAY KAMAL K!", // Insert your name
     socialNetwork: [
         {
             icon: "fa fa-envelope-o",  // find other icon in https://fontawesome.com/v4.7/icons/
             nameSocialNetwork: "Email",  // label name
-            url: "https://discordapp.com/users/LYNX#3267"  //  url of the Social Network
+            url: "mailto:vijaykamalkhv@gmail.com"  //  url of the Social Network
         },
         {
             icon: "fa fa-linkedin", // find other icon in https://fontawesome.com/v4.7/icons/
@@ -126,6 +126,12 @@ export const skillsData = [
 //                PROJECTS
 //=========================================
 export const projectsData = [
+    {
+        title: "Crime Trends and Patterns in the United States (1979-2019)",    // card image  > insert the svg image in the assets folder
+        describe: "Developed an interactive web-based visualization using D3.js to analyze and present crime data across four decades. Incorporated cartograms and choropleths to reveal geographic patterns and highlighted socio-economic factors influencing crime trends.",
+        url: "https://vijaykhv.github.io/DV-Final-Project/",  // url of the Github repository
+        img: "https://i.ibb.co/DzXrNSF/Screenshot-2024-12-26-at-2-40-44-AM.png"//image Project
+    },
     {
         title: "Lung Cancer Detection Using CNN",    // card image  > insert the svg image in the assets folder
         describe: "Lung Cancer is one of the leading life taking cancer worldwide. Early detection and treatment are crucial for patient recovery. Medical professionals use histopathological images of biopsied tissue from potentially infected areas of lungs for diagnosis. Benign tissue, Adenocarcinoma, and squamous cell carcinoma are considered in this project. The CNN model training and validation accuracy of 87.92 and 86.83 percentage are obtained",
