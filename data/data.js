@@ -129,7 +129,7 @@ export const projectsData = [
     {
         title: "Crime Trends and Patterns in the United States (1979-2019)",    // card image  > insert the svg image in the assets folder
         describe: "Developed an interactive web-based visualization using D3.js to analyze and present crime data across four decades. Incorporated cartograms and choropleths to reveal geographic patterns and highlighted socio-economic factors influencing crime trends.",
-        url: "https://vijaykhv.github.io/DV-Final-Project/",  // url of the Github repository
+        url: "https://vijaykhv.github.io/Crime_Trends/",  // url of the Github repository
         img: "https://i.ibb.co/DzXrNSF/Screenshot-2024-12-26-at-2-40-44-AM.png"//image Project
     },
     {
